@@ -25,3 +25,7 @@ ul {
   list-style: circle;
 }
 
+li a,
+p a {
+  word-break: break-all;
+}
