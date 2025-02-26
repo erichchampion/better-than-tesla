@@ -163,9 +163,7 @@ const SectionComponent = ({
 export default function Page() {
   return (
     <main className="min-h-screen bg-black text-white">
-      <div className="min-h-screen p-6 bg-cover bg-center">
-        <SectionComponent section={content['section-1']} />
-      </div>
+      <SectionComponent section={content['section-1']} />
     </main>
   )
 }

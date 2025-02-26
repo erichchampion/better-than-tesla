@@ -4,6 +4,7 @@
 		"description": "Many union-made electric vehicles are better than any Tesla."
 	},
 	"section-1": {
+		"background": "generic-background-horizontal.webp",
 		"title": "Better than Tesla",
 		"description": "Many union-made electric vehicles are better than any Tesla. Test-drive some of these wonderful alternatives before making any purchase. Electric vehicles are fun to drive, easy to live with, and great for people in all walks of life. Before making any decision, though, remember these warnings about Tesla: ",
 		"bullet-points": {
@@ -60,6 +61,7 @@
 			}
 		},
 		"section-1-4": {
+			"background": "generic-background-horizontal.webp",
 			"title": "Explore Other Union-Made Automobiles",
 			"bullet-points": {
 				"1": {
@@ -77,6 +79,7 @@
 			}
 		},
 		"section-1-5": {
+			"background": "generic-background-horizontal.webp",
 			"title": "More Info About Tesla",
 			"description": "For more information on why it's important to boycott Tesla, see: http://takedowntesla.com"
 		}
