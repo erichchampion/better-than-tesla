@@ -32,7 +32,7 @@ export default function RootLayout({
         <>
           <Script
             strategy="afterInteractive"
-            src={`https://www.googletagmanager.com/gtag/js?id=${GA_ID}`}
+            src={`/gtag/js`}
           />
           <Script id="gtag-init" strategy="afterInteractive">
             {`
