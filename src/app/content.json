@@ -4,7 +4,7 @@
 		"description": "Many union-made electric vehicles are better than any Tesla."
 	},
 	"section-1": {
-		"background": "generic-background-horizontal.webp",
+		"background": "big-sur.webp",
 		"title": "Better than Tesla",
 		"description": "Many union-made electric vehicles are better than any Tesla. Test-drive some of these wonderful alternatives before making any purchase. Electric vehicles are fun to drive, easy to live with, and great for people in all walks of life. Before making any decision, though, remember these warnings about Tesla: ",
 		"bullet-points": {
@@ -28,22 +28,16 @@
 			}
 		},
 		"section-1-1": {
-			"title": "The Best Union-Made Model 3 Alternative",
-			"section-1-1-1": {
-				"background": "bolt-euv.webp",
-				"title": "The Chevrolet Bolt EV or the Bolt EUV",
-				"description": "Looking for an electric vehicle that combines cutting-edge technology, impressive range, and unbeatable value? Look no further than the Chevrolet Bolt EV and Bolt EUV! With the Bolt EV offering an incredible 259 miles on a single charge and the Bolt EUV delivering 247 miles, you can confidently take on your daily commute or weekend adventures without worrying about range anxiety. These models are designed to fit your lifestyle, featuring spacious interiors that comfortably seat up to four adults, making every journey enjoyable. The Bolt EUV takes it a step further with enhanced rear legroom and the innovative Super Cruise semi-autonomous driving system, perfect for those long road trips. Plus, with a sleek 10.2-inch touchscreen infotainment system, wireless Apple CarPlay, and Android Auto, staying connected has never been easier. Enjoy peace of mind with an array of advanced safety features and the low maintenance costs that come with electric driving. Make the smart choice for your wallet and the planet—discover the Chevrolet Bolt EV and EUV today, and drive into a brighter, greener future! Although Chevrolet made the decision to discontinue them, they can be great values on the used market!",
-				"href": "https://www.edmunds.com/chevrolet/bolt-euv/"
-			}
+			"background": "bolt-euv.webp",
+			"title": "The Best Union-Made Model 3 Alternative: The Chevrolet Bolt EV or the Bolt EUV",
+			"description": "Looking for an electric vehicle that combines cutting-edge technology, impressive range, and unbeatable value? Look no further than the Chevrolet Bolt EV and Bolt EUV! With the Bolt EV offering an incredible 259 miles on a single charge and the Bolt EUV delivering 247 miles, you can confidently take on your daily commute or weekend adventures without worrying about range anxiety. These models are designed to fit your lifestyle, featuring spacious interiors that comfortably seat up to four adults, making every journey enjoyable. The Bolt EUV takes it a step further with enhanced rear legroom and the innovative Super Cruise semi-autonomous driving system, perfect for those long road trips. Plus, with a sleek 10.2-inch touchscreen infotainment system, wireless Apple CarPlay, and Android Auto, staying connected has never been easier. Enjoy peace of mind with an array of advanced safety features and the low maintenance costs that come with electric driving. Make the smart choice for your wallet and the planet—discover the Chevrolet Bolt EV and EUV today, and drive into a brighter, greener future! Although Chevrolet made the decision to discontinue them, they can be great values on the used market!",
+			"href": "https://www.edmunds.com/chevrolet/bolt-euv/"
 		},
 		"section-1-2": {
-			"title": "The Best Union-Made Model X and Y Alternative",
-			"section-1-2-1": {
-				"background": "lyriq.webp",
-				"title": "Cadillac Lyriq",
-				"description": "You can experience the future of luxury with the Cadillac Lyriq, a groundbreaking all-electric SUV that redefines driving excellence. Boasting an impressive EPA-estimated range of up to 326 miles on a single charge, the Lyriq ensures you'll conquer your daily commute and weekend getaways with confidence. Immerse yourself in opulence with the stunning 33-inch diagonal advanced LED display, offering over a billion colors and seamlessly integrating driver information and infotainment. The Lyriq's performance is equally impressive, with up to 515 horsepower and 450 lb-ft of torque in the all-wheel-drive variant, delivering exhilarating acceleration and responsive handling. Indulge in cutting-edge technology, including the available Super Cruise hands-free driving system, a 19-speaker AKG premium audio system, and Google built-in infotainment. With its distinctive styling, featuring a unique black crystal grille and choreographed LED lighting, the Lyriq turns heads wherever it goes. Starting at an attractive price point of $58,595, the Cadillac Lyriq offers unparalleled luxury, performance, and innovation in the electric vehicle market.",
-				"href": "https://www.cadillac.com/electric/lyriq?"
-			}
+			"background": "lyriq.webp",
+			"title": "The Best Union-Made Model X and Y Alternative: The Cadillac Lyriq",
+			"description": "You can experience the future of luxury with the Cadillac Lyriq, a groundbreaking all-electric SUV that redefines driving excellence. Boasting an impressive EPA-estimated range of up to 326 miles on a single charge, the Lyriq ensures you'll conquer your daily commute and weekend getaways with confidence. Immerse yourself in opulence with the stunning 33-inch diagonal advanced LED display, offering over a billion colors and seamlessly integrating driver information and infotainment. The Lyriq's performance is equally impressive, with up to 515 horsepower and 450 lb-ft of torque in the all-wheel-drive variant, delivering exhilarating acceleration and responsive handling. Indulge in cutting-edge technology, including the available Super Cruise hands-free driving system, a 19-speaker AKG premium audio system, and Google built-in infotainment. With its distinctive styling, featuring a unique black crystal grille and choreographed LED lighting, the Lyriq turns heads wherever it goes. Starting at an attractive price point of $58,595, the Cadillac Lyriq offers unparalleled luxury, performance, and innovation in the electric vehicle market.",
+			"href": "https://www.cadillac.com/electric/lyriq?"
 		},
 		"section-1-3": {
 			"title": "Buy a Real Truck, not a Dumpster Fire",
@@ -61,7 +55,7 @@
 			}
 		},
 		"section-1-4": {
-			"background": "generic-background-horizontal.webp",
+			"background": "bridges.webp",
 			"title": "Explore Other Union-Made Automobiles",
 			"bullet-points": {
 				"1": {
@@ -79,7 +73,7 @@
 			}
 		},
 		"section-1-5": {
-			"background": "generic-background-horizontal.webp",
+			"background": "dumpster.webp",
 			"title": "More Info About Tesla",
 			"description": "For more information on why it's important to boycott Tesla, see: http://takedowntesla.com"
 		}
