@@ -7,4 +7,5 @@ Please feel free to make PRs with any suggestions you might have.
 To get up and running on http://localhost:3000, install npm or yarn and run either of these commands:
 
 npm run dev
+-or-
 yarn dev
