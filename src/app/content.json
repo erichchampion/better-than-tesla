@@ -21,9 +21,13 @@
 				"href": "https://www.consumerreports.org/cars/car-reliability-owner-satisfaction/who-makes-the-most-reliable-cars-a7824554938/"
 			},
 			"4": {
-				"text": "With Elon decimating any government agency attempting to oversee his activities, Tesla quality and safety is certain to decline even further."
+				"text": "Lawsuit Alleges Tesla Manipulates Odometer Readings to Avoid Warranty Obligations:",
+				"href": "https://www.classaction.org/media/hinton-v-tesla-inc-et-al.pdf"
 			},
 			"5": {
+				"text": "With Elon decimating any government agency attempting to oversee his activities, Tesla quality and safety is certain to decline even further."
+			},
+			"6": {
 				"text": "Supporting union workers is infinitely better than supporting Nazis."
 			}
 		},
@@ -75,16 +79,7 @@
 		"section-1-5": {
 			"background": "dumpster.webp",
 			"title": "More Info About Tesla",
-			"bullet-points": {
-				"1": {
-					"text": "Why it's important to boycott Tesla:",
-					"href": "http://takedowntesla.com"
-				},
-				"2": {
-					"text": "Lawsuit Alleges Tesla Manipulates Odometer Readings to Avoid Warranty Obligations:",
-					"href": "https://www.classaction.org/media/hinton-v-tesla-inc-et-al.pdf"
-				}		
-			}
+            "description": "For more information on why it's important to boycott Tesla, see: http://takedowntesla.com"
 		}
 	}
 }
