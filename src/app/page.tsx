@@ -114,6 +114,15 @@ const SectionContent = ({
 						))}
 					</ul>
 				)}
+									
+				{section.href && (
+					<a 
+						href={section.href}
+						className="inline-block mt-4 px-6 py-3 bg-blue-600 text-white font-medium rounded-md hover:bg-blue-700 transition-colors"
+					>
+						Learn More
+					</a>
+				)}
 			</div>
 		</div>
 	)
@@ -137,24 +146,11 @@ const SectionComponent = ({
 					const nestedSection = value as Section
 					return (
 						<div key={key} className={!isNested ? "mt-12" : ""}>
-							{nestedSection.href ? (
-								<a 
-									href={nestedSection.href}
-									className="block hover:opacity-90 transition-opacity"
-								>
-									<SectionComponent
-										section={nestedSection}
-										level={Math.min(level + 1, 6)}
-										isNested={true}
-									/>
-								</a>
-							) : (
-								<SectionComponent
-									section={nestedSection}
-									level={Math.min(level + 1, 6)}
-									isNested={true}
-								/>
-							)}
+							<SectionComponent
+								section={nestedSection}
+								level={Math.min(level + 1, 6)}
+								isNested={true}
+							/>
 						</div>
 					)
 				}
